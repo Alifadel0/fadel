@@ -1,0 +1,174 @@
+
+/* Corps */
+article, aside
+{
+display: inline-block;
+vertical-align: top;
+}
+header
+{
+
+	margin-bottom: 0px;
+}
+form
+{
+	text-align:center;
+	border-radius: 10px;
+}
+.amzi
+{
+	color: teal;
+}
+
+
+
+article
+{
+width: 800px;
+
+margin-top: 80px;
+color: teal;
+}
+.ico_categorie
+{
+vertical-align: middle;
+margin-right: 8px;
+}
+article p
+{
+font-size: 15px;
+color: black;
+}
+aside
+{
+position: relative;
+width: 300px;
+background-color: #706b64;
+box-shadow: 0px 2px 5px #1c1a19;
+border-radius: 5px;
+padding:50px;
+color: white;
+margin-top:15px;
+margin-bottom:15px;
+padding-bottom:5px;
+padding-top:10px;
+}
+footer
+{
+box-shadow:0px 0px 10px black;
+border-radius: 5px;
+width: 800px;
+margin: auto;
+
+}	
+article
+{
+	
+margin-top:15px;
+width: 925px;
+padding-right:10px;
+padding-left:8px;
+margin-bottom:15px;
+font-size: 15px;
+}
+header
+{
+	
+border-radius: 5px;
+}
+section h1, footer h1, nav a
+{
+font-family: Dayrom, serif;
+font-weight: normal;
+text-transform: uppercase;
+}
+body
+{
+font-family: 'Trebuchet MS', Arial, sans-serif;
+color: #181818;
+}
+/* Footer */
+footer
+{
+background-color:
+padding-top: 5px;
+margin-top:auto;
+width:auto;
+}
+footer p, footer ul
+{
+font-size: 0.8em;
+}
+footer h1
+{
+font-size: 0.8em;
+}
+#tweet, #mes_photos, #mes_amis
+{
+display: inline-block;
+vertical-align: top;
+}
+#tweet
+{
+width: 28%;
+}
+#mes_photos
+{
+width: 35%;
+}
+#mes_amis
+{
+width: 31%;
+}
+#mes_photos img
+{
+border: 1px solid #181818;
+margin-right: 2px;
+}
+#mes_amis ul
+{
+display: inline-block;
+vertical-align: top;
+margin-top: 0;
+width: 48%;
+padding-left: 2px;
+}
+#mes_amis a
+{
+text-decoration: none;
+color: #760001;
+}
+.id
+{
+	border-radius: 80px black;
+}
+
+body
+{
+	background-color: 
+}
+.bindo
+{
+	text-align: right;
+}
+
+.bouton_rouge
+{
+	border: 1px solid black;
+	text-decoration: none;
+	padding:0.1px;
+	border-radius:3px;
+	background-color:maroon;
+	color: white;
+	padding-right:3px;
+	font-size:13px;
+	padding-left:3px;
+	padding-bottom:3px;
+	padding-top:3px;
+	
+}	
+.fa
+{
+	font-family:Showcard Gothic;
+}
+
