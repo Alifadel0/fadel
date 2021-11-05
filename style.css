@@ -93,7 +93,7 @@ footer
 background-color:
 padding-top: 5px;
 margin-top:auto;
-width:auto;
+width:925px;
 }
 footer p, footer ul
 {
@@ -143,10 +143,6 @@ color: #760001;
 	border-radius: 80px black;
 }
 
-body
-{
-	background-color: 
-}
 .bindo
 {
 	text-align: right;
