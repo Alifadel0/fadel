@@ -41,7 +41,7 @@ color: black;
 }
 aside
 {
-position: relative;
+position: right;
 width: 300px;
 background-color: #706b64;
 box-shadow: 0px 2px 5px #1c1a19;
@@ -52,6 +52,7 @@ margin-top:15px;
 margin-bottom:15px;
 padding-bottom:5px;
 padding-top:10px;
+	
 }
 footer
 {
@@ -94,6 +95,7 @@ background-color:
 padding-top: 5px;
 margin-top:auto;
 width:925px;
+margin-bottom:0px;	
 }
 footer p, footer ul
 {
